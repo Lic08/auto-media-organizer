@@ -1,0 +1,10 @@
+# Ignore personal media, dummy testing data and logs
+Media/
+Downloads/
+*.log
+
+# Ignore actual configuration file with private API keys
+config.cfg
+
+# System files
+.DS_Store
