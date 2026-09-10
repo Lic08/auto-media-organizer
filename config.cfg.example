@@ -1,0 +1,3 @@
+DOWNLOADS_DIR="/path/to/your/downloads"
+MEDIA_DIR="/path/to/your/media"
+API_KEY="your_omdb_api_key_here"
