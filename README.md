@@ -22,6 +22,7 @@ A robust, automated Bash script that monitors a download directory and intellige
 To run this script automatically every day at midnight, add it to your crontab (`crontab -e`):
 `0 0 * * * /absolute/path/to/organizer.sh >/dev/null 2>&1`
 
+```text
 Before:
 /downloads/Inception.2010.1080p.BluRay.x264.mkv
 
